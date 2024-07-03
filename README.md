@@ -7,13 +7,16 @@ This repository contains code and resources for performing sentiment analysis on
 - Conduct sentiment analysis to determine the polarity and subjectivity of comments.
 - Analyze the correlation between different sentiments and contextual factors.
 
-About the REU Program
-This project, titled "Misinformation in the Venezuela-Guyana Border Dispute and Its Impact on Sentiments Towards Venezuelan Refugees in Guyana," was developed as part of the Research Experiences for Undergraduates (REU) program at the Virginia Modeling, Simulation, and Analysis Center (VMASC), which is a part of Old Dominion University. Funded by the National Science Foundation, the Summer 2024 REU program focused on misinformation detection and analysis. Participants worked closely with faculty mentors and contributed to ongoing research initiatives or created their own projects. This program provided undergraduate students with the opportunity to gain hands-on experience in the field of data science.
+About the REU Program:
 
-Contributions
+As mentioned before, the code and resources in this repository were initially created as part of a Research Experiences for Undergraduates (REU) project titled "Misinformation in the Venezuela-Guyana Border Dispute and Its Impact on Sentiments Towards Venezuelan Migrants in Guyana." The project was developed at the Virginia Modeling, Simulation, and Analysis Center (VMASC), a part of Old Dominion University. The REU program is funded by the National Science Foundation, with the Summer 2024 program focusing on misinformation detection and analysis. Participants worked closely with faculty mentors and contributed to ongoing research initiatives or created their own projects. This program provided undergraduate students with the opportunity to gain hands-on experience in the field of data science.
+
+Contributions:
+
 Contributions to this project are welcome! If you have suggestions, improvements, or new features to add, please submit a pull request or open an issue.
 
 Features:
+
 - YouTube Data Collection: Scripts to scrape comments from YouTube videos using YouTube Data API.
 - Data Cleaning and Preprocessing: Tools to clean and preprocess text data for sentiment analysis.
 - Sentiment Analysis: Implementation of sentiment analysis using TextBlob.
@@ -21,13 +24,11 @@ Features:
 
 Project Overview:
 
-To get started with this project, follow the instructions below:
+You can complete this project locally or in Google Colab. To get started, follow the instructions below:
 
-1. Clone the Repository
-   git clone https://github.com/your-username/YouTubeSentimentAnalysis.git
+1. Clone the Repository: git clone https://github.com/your-username/YouTubeSentimentAnalysis.git
    
-2. Install Dependencies:
-   pip install pandas transformers torch textblob langdetect googletrans==4.0.0-rc1 seaborn matplotlib
+2. Install Dependencies: pip install pandas transformers torch textblob langdetect googletrans==4.0.0-rc1 seaborn matplotlib
 
 3. Setup YouTube API:
    Obtain YouTube Data API credentials and set up the API key in your environment.
