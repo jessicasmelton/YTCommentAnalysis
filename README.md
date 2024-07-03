@@ -1,6 +1,6 @@
 # YouTube Comment Sentiment Analysis Project
 
-This repository contains code and resources for performing sentiment analysis on YouTube comments. Initially developed as part of an REU (Research Experiences for Undergraduates) project, this toolkit was designed to analyze sentiments related to the Venezuela-Guyana border dispute and Venezuelan refugees in Guyana. However, these tools can be adapted for a wide range of research topics. The goal of this project is to analyze the sentiments expressed in YouTube comments to understand public opinion on various topics. Specifically, this project was used to:
+This repository contains code and resources for performing sentiment analysis on YouTube comments. Initially developed as part of an REU (Research Experiences for Undergraduates) project, this toolkit was designed to analyze sentiments related to the Venezuela-Guyana border dispute and Venezuelan migrants in Guyana. However, these tools can be adapted for a wide range of research topics. The goal of this project is to analyze the sentiments expressed in YouTube comments to understand public opinion on various topics. Specifically, this project was used to:
 
 - Collect YouTube comments related to the Venezuela-Guyana border dispute and Venezuelan refugees in Guyana.
 - Clean and preprocess the comments for analysis.
